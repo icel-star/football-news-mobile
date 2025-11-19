@@ -88,5 +88,3 @@ class NewsEntryCard extends StatelessWidget {
     );
   }
 }
-
-//test
